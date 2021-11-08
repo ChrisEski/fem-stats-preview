@@ -1,0 +1,28 @@
+// # Layout
+$mobile: 528px;
+$desktop: 1440px;
+
+// # Colors
+
+// ## Primary
+$clr-bg-main: hsl(233, 47%, 7%);
+$clr-bg-card: hsl(244, 38%, 16%);
+$accent: hsl(277, 64%, 61%);
+
+// ## Neutral
+$fc-white: hsl(0, 0%, 100%);
+$fc-main-text: hsla(0, 0%, 100%, 0.75);
+$fc-stats-title: hsla(0, 0%, 100%, 0.6);
+
+// # Typography
+
+// ## Font Family
+$ff-title: 'Inter', sans-serif;
+$ff-text: 'Lexend Deca', sans-serif;
+
+// ## Body Size
+$fs-reg: 15px;
+
+// ## Font Weight
+$fw-title: 700;
+$fw-text: 400;

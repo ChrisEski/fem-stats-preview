@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: $ff-title;
+  color: $fc-white;
+}
+
+p {
+  font-family: $ff-text;
+  color: $fc-main-text;
+}
+
+.accent {
+  color: $accent;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
